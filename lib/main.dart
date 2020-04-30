@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:zam_nocturlab/views/home/home_view.dart';
 
-void main() => runApp(HomeView());
+void main() => runApp(Nocturlab());
 
 class Nocturlab extends StatelessWidget {
   @override
